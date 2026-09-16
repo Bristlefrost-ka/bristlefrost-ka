@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**Bristlefrost-ka/bristlefrost-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I’m currently working on a few projects
+- I’m currently learning Javascript
+- I’m looking for help with improving :)
+- Ask me about coding, hiking, camping, or anything inbetween
+- How to reach me: Khan academy: @R00T5PR1NG 
+- Pronouns: she/her
+- Fun fact: i have been to over 3/4 the US states
 -->
+  
+![Profile Views](https://komarev.com/ghpvc/?username=bristlefrost-ka&style=round-square&color=81ad80)
