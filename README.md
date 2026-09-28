@@ -7,6 +7,7 @@
 - How to reach me: Khan academy: @R00T5PR1NG 
 - Pronouns: she/her
 - Fun fact: i have been to over 3/4 the US states
+- You can also contact me via discord (but you have to ask)
 -->
   
 ![Profile Views](https://komarev.com/ghpvc/?username=bristlefrost-ka&style=round-square&color=81ad80)
