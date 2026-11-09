@@ -15,12 +15,6 @@ N/A currently...
 ### Top Contributed Repo
 [![](https://komarev.com/ghpvc/?username=bristlefrost-ka&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
-# GitHub Stats:
-![GitHub Stats](https://shion.dev)<br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=bristlefrost-ka&theme=dark&hide_border=false)<br/>
-![Top Langs](https://shion.dev)
 
-### Profile Views
-![Profile Views](https://komarev.com)
 
 
