@@ -16,5 +16,8 @@ N/A currently...
 [![](https://komarev.com/ghpvc/?username=bristlefrost-ka&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
+[![Now playing on Spotify](/badge/29b5b992bfeedac12bb0b492ef77ff0f0d5eefe5.svg)](/badge/29b5b992bfeedac12bb0b492ef77ff0f0d5eefe5/open)
+<sub>via [spotifystats.com](https://spotifystats.com/?ref=badge)</sub>
+
 
 
