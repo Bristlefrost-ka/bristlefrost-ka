@@ -13,10 +13,11 @@ N/A currently...
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bristlefrost-ka&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### Top Contributed Repo
-[![](https://komarev.com/ghpvc/?username=bristlefrost-ka&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=bristlefrost-ka)](https://visitcount.itsvg.in)
+
 ---
 
-[![Now playing on Spotify](https://spotifystats.com)](https://spotifystats.com) <sub>via [spotifystats.com](https://spotifystats.com)</sub>
-(https://spotifystats.com/?ref=badge)</sub>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31slot5y3fx6ftquqxjeslnx5xuu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 
